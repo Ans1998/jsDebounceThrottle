@@ -1,5 +1,5 @@
 # hello-world
-
+![项目演示](https://github.com/Aliceco/jsDebounceThrottle/blob/master/src/assets/G1Cnjx9XOe.gif)
 ## Project setup
 ```
 npm install
